@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,macos
 
 #API KEY#
-/WeatherAPISample/APIKey.swift
+WeatherAPISample/WeatherAPISample/APIKey.swift
 
 ### macOS ###
 # General
